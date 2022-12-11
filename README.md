@@ -9,9 +9,13 @@ The script used the following api keys.
 1. Yelp fusion
 By creating a yelp account and a new project, api key will be generated.
 Related reading: https://fusion.yelp.com/
+After acquiring the key, create API.txt and paste "Bearer " + api key inside.
+example: Bearer _08Up8W9Ehqxxxxxx
 2. Google Map api
 The route api is used. You need to create a account add a payment method to use the api. 
 Related reading: https://developers.google.com/maps
+After acquiring the key, create a google_map.py and create a varible called key and assigne its value to be the api key.
+example: key = "key = "AIzaSyA_XXXXXXX"
 
 Instruction
 Interaction and Presentation Plans
