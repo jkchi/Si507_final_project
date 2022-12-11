@@ -4,6 +4,15 @@ This is for the fianl project of si507. Try to build a restaurant recommendation
 The script requires the following packages.
 1.os 2.requests 3.google_map 4.BeautifulSoup
 
+API keys
+The script used the following api keys.
+1. Yelp fusion
+By creating a yelp account and a new project, api key will be generated.
+Related reading: https://fusion.yelp.com/
+2. Google Map api
+The route api is used. You need to create a account add a payment method to use the api. 
+Related reading: https://developers.google.com/maps
+
 Instruction
 Interaction and Presentation Plans
 The command line will present the final result. The app asks several questions and returns several dining recommendations for the city you are currently in. 
